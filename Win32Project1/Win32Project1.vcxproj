@@ -143,12 +143,14 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="src\D3dclass.cpp" />
     <ClCompile Include="src\Graphicsclass.cpp" />
     <ClCompile Include="src\Inputclass.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\Systemclass.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="src\D3dclass.h" />
     <ClInclude Include="src\Graphicsclass.h" />
     <ClInclude Include="src\Inputclass.h" />
     <ClInclude Include="src\Systemclass.h" />

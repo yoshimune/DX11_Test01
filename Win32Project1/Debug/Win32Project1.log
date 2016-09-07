@@ -1,1 +1,6 @@
-﻿  Win32Project1.vcxproj -> c:\users\y_masaki\documents\visual studio 2015\Projects\Win32Project1\Debug\Win32Project1.exe
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Win32Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  D3dclass.cpp
+  コードを生成中...
+  スキップ中... (関連する変更は検出されませんでした)
+  Inputclass.cpp
+  Win32Project1.vcxproj -> C:\Users\y_masaki\Documents\Visual Studio 2015\Projects\Win32Project1\Debug\DX11_test01.exe
